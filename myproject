@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>The One piece fan boy</title>
+        <link rel="icon" type="image/x-icon" href="https://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/128/Luffys-flag-icon.png">
+        <link rel="stylesheet" href="stylesheet.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>One piece storyline</h1>
+        <center>
+        <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1k4cTP.img?w=246&h=388&m=6" alt="pic">
+        </center>
+        <p class="storyline">One Piece tells the story of Monkey D. Luffy, a young pirate who, after accidentally eating a Devil Fruit, gains the power to stretch his body like rubber. Driven by a desire to become King of the Pirates and find the legendary treasure "One Piece", he assembles a crew of diverse individuals, the Straw Hat Pirates, and embarks on a grand adventure across the seas. Their journey involves navigating the treacherous Grand Line, battling powerful pirates and the World Government, and uncovering the mysteries of the world. </p>
+                <h2>One piece strawhat crew</h2>
+                <center>
+                <img src="https://upload.wikimedia.org/wikipedia/en/6/62/Main_characters_of_One_Piece.png" alt="luffy crew">
+                </center>
+                <p class="crew">Monkey D. Luffy is the series' main protagonist, a young pirate who wishes to succeed Gold Roger, the deceased King of the Pirates, by finding his treasure, the "One Piece". Throughout the series, Luffy gathers himself a diverse crew named the Straw Hat Pirates, including: the three-sword-wielding combatant Roronoa Zoro (sometimes referred to as Roronoa Zolo in the English manga); the thief and navigator Nami; the cowardly marksman and inventor Usopp; the amorous cook and martial artist Sanji; the anthropomorphic reindeer and doctor Tony Tony Chopper; the archaeologist Nico Robin; the cyborg shipwright Franky; the living skeleton musician Brook; and the fish-man helmsman Jimbei. Together they sail the seas in pursuit of their dreams, encountering other pirates, bounty hunters, criminal organizations, revolutionaries, secret agents and soldiers of the corrupt World Government, and various other friends and foes.</p>
+                <h3>One piece charactor list</h3>
+                <div class="a">
+                <p>Here is a list of some of the main characters from One Piece:</p>
+                <ul>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Affro-Luffy-icon.png" alt="Monkey D. Luffy"><a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy">Monkey D. Luffy</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Roronoa-Zoro-icon.png" alt="Roronoa Zoro"><a href="https://onepiece.fandom.com/wiki/Roronoa_Zoro">Roronoa Zoro</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Nami-icon.png" alt="Nami"><a href="https://onepiece.fandom.com/wiki/Nami">Nami</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Usopp-icon.png" alt="Usopp"><a href="https://onepiece.fandom.com/wiki/Usopp">Usopp</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Sanji-icon.png" alt="Sanji"><a href="https://onepiece.fandom.com/wiki/Sanji">Sanji</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Chopper-icon.png" alt="Tony Tony Chopper"><a href="https://onepiece.fandom.com/wiki/Tony_Tony_Chopper">Tony Tony Chopper</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Nico-Robin-icon.png" alt="Nico Robin"><a href="https://onepiece.fandom.com/wiki/Nico_Robin">Nico Robin</a></li>
+                    <li><img src="https://icons.iconarchive.com/icons/crountch/one-piece-character/128/Brook-icon.png" alt="Brook"><a href="https://onepiece.fandom.com/wiki/Brook">Brook</a></li>
+                </ul>
+                </div>
+                <footer>
+                    <p>&copy; 2025 One Piece Fan Page</p>
+                </footer>
+    </body>
+    </html>

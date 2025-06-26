@@ -1,0 +1,60 @@
+h1{
+    background-color: rgb(255, 0, 8);
+    color: white;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    background-color: rgb(10, 244, 14);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+h3{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(252, 126, 15);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.storyline{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+}
+.crew{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+}
+.charactor{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+}
+a:hover {
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    font-weight: bold;   
+}
